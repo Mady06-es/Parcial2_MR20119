@@ -15,7 +15,18 @@ public __construct(readonly int  $codigo, readonly string $nombre ){
 
 }
 
+class Laptop extends Equipo {
 
+
+}
+
+
+
+class Proyector extends Equipo {
+
+
+
+}
 
 }
 
