@@ -1,7 +1,7 @@
 <?php
 
 
-require __DKDIR__\..\..\vendor\autoload.php;
+require __DKDIR__ \..\..\vendor\autoload.php;
 
 
 
